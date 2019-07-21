@@ -15,7 +15,7 @@ public class ResfullWebServicesApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Welll come to Spring Boot microservice..");
-		System.out.println("Welll come to Spring Boot microservice GIT..");
+		System.out.println("Welll come to Spring Boot microservice GIT-1..");
 		SpringApplication.run(ResfullWebServicesApplication.class, args);
 	}
 	
