@@ -14,6 +14,7 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 public class ResfullWebServicesApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Welll come BRAVO");
 		System.out.println("Welll come to Spring Boot microservice..");
 		SpringApplication.run(ResfullWebServicesApplication.class, args);
 	}
